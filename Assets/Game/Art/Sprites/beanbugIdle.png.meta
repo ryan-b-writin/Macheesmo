@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 437dce76b9b1c473dbb63bd711d3dada
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beanbugIdle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 761
+        width: 376
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c77541a5c54bb3bc547984a1a3a31
+      internalID: -1780450902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f7b138c4554edb9efc7253907f094
+      internalID: 790756105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17054ad786cb74f8290bb00330613e65
+      internalID: -796053532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527633af88cc844c7adfb88041530f2d
+      internalID: 304494174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 783
+        width: 376
+        height: 261
+      alignment: 9
+      pivot: {x: 0.49455747, y: 0.48431912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db56993ade8428c8db9eed5d955a06
+      internalID: -487449646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01084e3ebb634469b88465a5e0237124
+      internalID: -2025947110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_6
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b426c2e88ebe4021a8284cd6c801dd1
+      internalID: -920908993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_7
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c61437434604b6393f3fb30b24d50d
+      internalID: 1430085610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_8
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fede4309b974a58b5221b2b68e0ebb
+      internalID: -204259490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_9
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 783
+        width: 376
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007375389f444adf91d691bb25505c7
+      internalID: 977058462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 519
+        width: 372
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90bfc431d3e84b95a6c01a6b0f5e6b1
+      internalID: 1228168199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 519
+        width: 374
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc673d25a69aa4278aa616ffa46b8f98
+      internalID: -8555436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_12
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 519
+        width: 374
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce22079b5734fb4a04ba451dff0a00
+      internalID: 1203065657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 519
+        width: 376
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d486739d484f87ba8b7dd472057eb
+      internalID: 654617361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 519
+        width: 754
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865c5d1a2c944d1886499f73e61785b
+      internalID: -753401216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 519
+        width: 376
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0965220ecd414a9cbb0f9515a6b92a3
+      internalID: 1814565617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_16
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 519
+        width: 376
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300e04e01c2cf486eb9de86bcb804beb
+      internalID: -280545044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_17
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 519
+        width: 374
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7613570eea43d9aa4bc95bb507dd5
+      internalID: -1184006491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_18
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 519
+        width: 374
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a6ece6c60241bd842094ce7f9e78c
+      internalID: -867599037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 377
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b0fb00341e4bef864bb196e884588
+      internalID: -1377927222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 257
+        width: 372
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdcc86baa7e947dabae7adf0bd5c25e
+      internalID: 152524082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_21
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 257
+        width: 370
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16558449b66724b4da61beeb2f09958d
+      internalID: -862486283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 257
+        width: 370
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dee31b4dc994a6fb7a6130eb927647
+      internalID: 2037098652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 257
+        width: 366
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5908ab2fda443ae88f6d3675b714b6
+      internalID: 1345067847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 257
+        width: 366
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41502704a7ab249b492b2bb3212f0c9d
+      internalID: -559660968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_25
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 257
+        width: 366
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b683b4661984851b39b65e8c049843
+      internalID: -51956521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_26
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 257
+        width: 366
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06f7bbcf1804b3897b2dce1cbc6c96
+      internalID: -272373195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_27
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 257
+        width: 362
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1309972207669471d8265add911ee303
+      internalID: -1160366643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_28
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 257
+        width: 362
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd3cc6a59e64616b04d19aa0c32ce5
+      internalID: 1768066463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 368
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb50ab532ec14daa86b34bd91624429
+      internalID: -1078220924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_30
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 376
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c645a386ef624720860579351519601
+      internalID: 1733702416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_31
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 0
+        width: 380
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858b8fdf6fbb43f885896a33f0b6b48
+      internalID: -845260483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 0
+        width: 388
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42c540237e44a4b892a84ca12f0b1c
+      internalID: 224332809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_33
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 396
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4796837c9d2349d5be6585af937e9ec
+      internalID: 1702888180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_34
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 0
+        width: 402
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b477e948e33442eeb4d61022b717bff
+      internalID: -2095543087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_35
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 408
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a75a6ace6324917ad6cd8f938d8228
+      internalID: -577174603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beanbugIdle_36
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 0
+        width: 691
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7ac482869554f60883ece26455bf33
+      internalID: -420978675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beanbugIdle_22: 2037098652
+      beanbugIdle_28: 1768066463
+      beanbugIdle_18: -867599037
+      beanbugIdle_30: 1733702416
+      beanbugIdle_1: 790756105
+      beanbugIdle_16: -280545044
+      beanbugIdle_20: 152524082
+      beanbugIdle_27: -1160366643
+      beanbugIdle_10: 1228168199
+      beanbugIdle_29: -1078220924
+      beanbugIdle_26: -272373195
+      beanbugIdle_17: -1184006491
+      beanbugIdle_32: 224332809
+      beanbugIdle_12: 1203065657
+      beanbugIdle_15: 1814565617
+      beanbugIdle_11: -8555436
+      beanbugIdle_13: 654617361
+      beanbugIdle_34: -2095543087
+      beanbugIdle_35: -577174603
+      beanbugIdle_21: -862486283
+      beanbugIdle_6: -920908993
+      beanbugIdle_24: -559660968
+      beanbugIdle_2: -796053532
+      beanbugIdle_36: -420978675
+      beanbugIdle_19: -1377927222
+      beanbugIdle_0: -1780450902
+      beanbugIdle_9: 977058462
+      beanbugIdle_5: -2025947110
+      beanbugIdle_25: -51956521
+      beanbugIdle_33: 1702888180
+      beanbugIdle_3: 304494174
+      beanbugIdle_7: 1430085610
+      beanbugIdle_8: -204259490
+      beanbugIdle_14: -753401216
+      beanbugIdle_23: 1345067847
+      beanbugIdle_4: -487449646
+      beanbugIdle_31: -845260483
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

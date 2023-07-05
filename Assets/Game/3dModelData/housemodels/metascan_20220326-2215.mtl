@@ -1,0 +1,25 @@
+# Source: Metascan 2.4.0
+# Device: iPad Pro (11-inch) (3rd generation)
+#
+# Exported: 2022-03-27T04:24:30.218215Z
+#
+
+newmtl material_0
+illum 1
+map_Kd metascan_20220326-2215_tex0.jpeg
+
+newmtl material_1
+illum 1
+map_Kd metascan_20220326-2215_tex1.jpeg
+
+newmtl material_2
+illum 1
+map_Kd metascan_20220326-2215_tex2.jpeg
+
+newmtl material_3
+illum 1
+map_Kd metascan_20220326-2215_tex3.jpeg
+
+newmtl material_4
+illum 1
+map_Kd metascan_20220326-2215_tex4.jpeg

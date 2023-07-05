@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 963feed4e21014180862d200dea7714b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 2469
+      width: 210
+      height: 342
+    spriteID: d0ae5718bccaf4e799df7a6e60ef2e39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 2469}
+    spritePosition: {x: 476, y: 730}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 4
+      width: 485
+      height: 378
+    spriteID: c1bbf1e2197aa4abf801e88339537b01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 4}
+    spritePosition: {x: 458, y: 482}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 638
+      height: 949
+    spriteID: b11d2b3697e45463aa78ea7507379d67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 446, y: 355}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 650
+      y: 4
+      width: 625
+      height: 948
+    spriteID: 131ef9120080b41d383b1e79743668f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 4}
+    spritePosition: {x: 458, y: 356}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 4
+      width: 249
+      height: 795
+    spriteID: e65796d6e382d473ebd002b279af7b5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 4}
+    spritePosition: {x: 281, y: 269}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1955
+      y: 1754
+      width: 67
+      height: 79
+    spriteID: 7f923950a992e486696b11cc1783db7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1955, y: 1754}
+    spritePosition: {x: 372, y: 195}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 4019
+      width: 49
+      height: 63
+    spriteID: 61153802f9af44a13acf912cccb6f8be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1662, y: 4019}
+    spritePosition: {x: 381, y: 206}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 4017
+      width: 68
+      height: 75
+    spriteID: 7d45f2305d81040f3941a82d5aa7926e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 4017}
+    spritePosition: {x: 371, y: 195}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1672
+      y: 3533
+      width: 56
+      height: 79
+    spriteID: 8380a816be7344aa2848b7fb6f80c3c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1672, y: 3533}
+    spritePosition: {x: 375, y: 195}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 3932
+      width: 67
+      height: 79
+    spriteID: 6bdd26be1c2a54e8fa33124baba8dca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1662, y: 3932}
+    spritePosition: {x: 372, y: 194}
+  - name: Cheese Particle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1804
+      y: 1743
+      width: 95
+      height: 85
+    spriteID: 68e9d9cb432674204987eb46cf915f09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1804, y: 1743}
+    spritePosition: {x: 358, y: 195}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 650
+      y: 3828
+      width: 81
+      height: 199
+    spriteID: b8a886c5dddca4ca0acc4ec8384cb2d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 3828}
+    spritePosition: {x: 768, y: 226}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1955
+      y: 1548
+      width: 82
+      height: 198
+    spriteID: a5c6ec6a6f4d149c5922dd507587dcbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1955, y: 1548}
+    spritePosition: {x: 533, y: 225}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 1865
+      width: 287
+      height: 270
+    spriteID: b2ad3903e486e42d2b00362feb219ad8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 1865}
+    spritePosition: {x: 808, y: 702}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 2143
+      width: 233
+      height: 318
+    spriteID: 4e6a1ccd272fd462ea8c31c90398b2be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 2143}
+    spritePosition: {x: 1371, y: 472}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 390
+      width: 485
+      height: 378
+    spriteID: b78b8c607f56847b9add358a4389e3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 390}
+    spritePosition: {x: 1495, y: 482}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 961
+      width: 638
+      height: 949
+    spriteID: ef6195f6297404955a631b518a3da482
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 961}
+    spritePosition: {x: 1483, y: 355}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 650
+      y: 960
+      width: 625
+      height: 948
+    spriteID: 4f6d3e5b969e14f34bedce90a63e9d06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 960}
+    spritePosition: {x: 1495, y: 356}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 807
+      width: 249
+      height: 795
+    spriteID: c13f25b7e835d4314afe25a4db0f2a6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 807}
+    spritePosition: {x: 1318, y: 269}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1719
+      y: 4019
+      width: 49
+      height: 63
+    spriteID: 8a32b0cda4d7c4bca99709e7c0b63042
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1719, y: 4019}
+    spritePosition: {x: 1418, y: 206}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 3730
+      width: 96
+      height: 194
+    spriteID: 076c846a49c934918b8b6523f2a7300f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1662, y: 3730}
+    spritePosition: {x: 1818, y: 229}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 739
+      y: 3828
+      width: 81
+      height: 198
+    spriteID: d43f1112f66d44ceab2c9bb4be2fa781
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 739, y: 3828}
+    spritePosition: {x: 1572, y: 225}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 3175
+      width: 197
+      height: 350
+    spriteID: c553c2551cb1d4d93a8e60a2dd6a0fe3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 3175}
+    spritePosition: {x: 1811, y: 443}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 3570
+      width: 223
+      height: 344
+    spriteID: e2b437192af8048f2b1b7e707b65492f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 3570}
+    spritePosition: {x: 2506, y: 464}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 776
+      width: 485
+      height: 378
+    spriteID: 8d0e305860ae54535a529e056b2e7eda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 776}
+    spritePosition: {x: 2555, y: 482}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1918
+      width: 638
+      height: 949
+    spriteID: e41955bb50d704ca9888a01abd2d3aca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1918}
+    spritePosition: {x: 2543, y: 355}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 650
+      y: 1916
+      width: 625
+      height: 948
+    spriteID: c5100f2cbcad84379ae53698699f8685
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 1916}
+    spritePosition: {x: 2555, y: 356}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 1610
+      width: 249
+      height: 795
+    spriteID: 332a7ebd39f0a451c9252082c7875df6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 1610}
+    spritePosition: {x: 2378, y: 269}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 3930
+      width: 67
+      height: 79
+    spriteID: 28c5560be761342b385e23b9743521b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 3930}
+    spritePosition: {x: 2469, y: 195}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 3533
+      width: 124
+      height: 189
+    spriteID: a7fc3098d27454c13bf2668793fb3d3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 3533}
+    spritePosition: {x: 2880, y: 224}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 3730
+      width: 114
+      height: 192
+    spriteID: f97c62de98b94486287fbba6d2ac31ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 3730}
+    spritePosition: {x: 2641, y: 224}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 1548
+      width: 256
+      height: 309
+    spriteID: 1d4e74a5cfed74b8fa31c94d1b9d2824
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 1548}
+    spritePosition: {x: 2914, y: 473}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 2819
+      width: 199
+      height: 348
+    spriteID: 292e476aa54b8465289886abae6c6288
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 2819}
+    spritePosition: {x: 3536, y: 446}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1540
+      y: 1162
+      width: 485
+      height: 378
+    spriteID: 0e87e9426144d4eb2bdfc72434655396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1540, y: 1162}
+    spritePosition: {x: 3618, y: 481}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2875
+      width: 638
+      height: 949
+    spriteID: a3b9f22cdae51475380d91ea41f129a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2875}
+    spritePosition: {x: 3606, y: 354}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 650
+      y: 2872
+      width: 625
+      height: 948
+    spriteID: e0f5beb939ef645e0986d2bb7b750e18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 2872}
+    spritePosition: {x: 3618, y: 355}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 2413
+      width: 249
+      height: 795
+    spriteID: 7f5df27b64e764facb4eaa82bc3c6508
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 2413}
+    spritePosition: {x: 3441, y: 268}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1672
+      y: 3620
+      width: 56
+      height: 79
+    spriteID: c0767476919f549ebabcf99ffed24f9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1672, y: 3620}
+    spritePosition: {x: 3535, y: 194}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1804
+      y: 1548
+      width: 143
+      height: 187
+    spriteID: c9b30c902abd348f894c6de16a508568
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1804, y: 1548}
+    spritePosition: {x: 3869, y: 220}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1835
+      y: 1865
+      width: 149
+      height: 182
+    spriteID: 14abb340405e4494183d026d8796f48c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1835, y: 1865}
+    spritePosition: {x: 3635, y: 223}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 3216
+      width: 222
+      height: 346
+    spriteID: d883f8c566ff6425b8017b66783b8562
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1283, y: 3216}
+    spritePosition: {x: 3977, y: 447}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Up
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0f6dc3ea6281e4c1a89f1f835a2135ce
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d0ae5718bccaf4e799df7a6e60ef2e39
+    layerID: 110
+    mosaicPosition: {x: 1540, y: 2469}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c1bbf1e2197aa4abf801e88339537b01
+    layerID: 109
+    mosaicPosition: {x: 1540, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b11d2b3697e45463aa78ea7507379d67
+    layerID: 108
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 131ef9120080b41d383b1e79743668f4
+    layerID: 107
+    mosaicPosition: {x: 650, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e65796d6e382d473ebd002b279af7b5c
+    layerID: 106
+    mosaicPosition: {x: 1283, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Particles
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: b19a78788273d46489c6b163c04b08b7
+    layerID: 105
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 7f923950a992e486696b11cc1783db7e
+    layerID: 104
+    mosaicPosition: {x: 1955, y: 1754}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 61153802f9af44a13acf912cccb6f8be
+    layerID: 103
+    mosaicPosition: {x: 1662, y: 4019}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 7d45f2305d81040f3941a82d5aa7926e
+    layerID: 102
+    mosaicPosition: {x: 1540, y: 4017}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 8380a816be7344aa2848b7fb6f80c3c1
+    layerID: 101
+    mosaicPosition: {x: 1672, y: 3533}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 6bdd26be1c2a54e8fa33124baba8dca8
+    layerID: 100
+    mosaicPosition: {x: 1662, y: 3932}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cheese Particle 1
+    spriteName: Cheese Particle 1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 68e9d9cb432674204987eb46cf915f09
+    layerID: 99
+    mosaicPosition: {x: 1804, y: 1743}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b8a886c5dddca4ca0acc4ec8384cb2d7
+    layerID: 97
+    mosaicPosition: {x: 650, y: 3828}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a5c6ec6a6f4d149c5922dd507587dcbf
+    layerID: 96
+    mosaicPosition: {x: 1955, y: 1548}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b2ad3903e486e42d2b00362feb219ad8
+    layerID: 95
+    mosaicPosition: {x: 1540, y: 1865}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Down
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 189279a6b6dd24169b945298ef599385
+    layerID: 93
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4e6a1ccd272fd462ea8c31c90398b2be
+    layerID: 92
+    mosaicPosition: {x: 1540, y: 2143}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 16
+    spriteID: b78b8c607f56847b9add358a4389e3cb
+    layerID: 91
+    mosaicPosition: {x: 1540, y: 390}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ef6195f6297404955a631b518a3da482
+    layerID: 90
+    mosaicPosition: {x: 4, y: 961}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4f6d3e5b969e14f34bedce90a63e9d06
+    layerID: 89
+    mosaicPosition: {x: 650, y: 960}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: c13f25b7e835d4314afe25a4db0f2a6a
+    layerID: 88
+    mosaicPosition: {x: 1283, y: 807}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Particles
+    spriteName: 
+    isGroup: 1
+    parentIndex: 16
+    spriteID: 01a05e6b1eece4746be64af07877b340
+    layerID: 87
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 3f026145eee894d288d4e7bbf4d1c2e6
+    layerID: 86
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 8a32b0cda4d7c4bca99709e7c0b63042
+    layerID: 85
+    mosaicPosition: {x: 1719, y: 4019}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 1f9523c4c22524dc5b063be43ed57363
+    layerID: 84
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 699c83f0830dd4026be5782726ebf787
+    layerID: 83
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 22
+    spriteID: f42253fd6d6a04094b630959d7310b2c
+    layerID: 82
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Cheese Particle 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4de28a47055d54c95828d94e9cc07bb6
+    layerID: 81
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 076c846a49c934918b8b6523f2a7300f
+    layerID: 79
+    mosaicPosition: {x: 1662, y: 3730}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: d43f1112f66d44ceab2c9bb4be2fa781
+    layerID: 78
+    mosaicPosition: {x: 739, y: 3828}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 16
+    spriteID: c553c2551cb1d4d93a8e60a2dd6a0fe3
+    layerID: 77
+    mosaicPosition: {x: 1540, y: 3175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Backward
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8741aafdf62644a7aab93aca84dfecdb
+    layerID: 129
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: e2b437192af8048f2b1b7e707b65492f
+    layerID: 128
+    mosaicPosition: {x: 1283, y: 3570}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 8d0e305860ae54535a529e056b2e7eda
+    layerID: 127
+    mosaicPosition: {x: 1540, y: 776}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: e41955bb50d704ca9888a01abd2d3aca
+    layerID: 126
+    mosaicPosition: {x: 4, y: 1918}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: c5100f2cbcad84379ae53698699f8685
+    layerID: 125
+    mosaicPosition: {x: 650, y: 1916}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 332a7ebd39f0a451c9252082c7875df6
+    layerID: 124
+    mosaicPosition: {x: 1283, y: 1610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Particles
+    spriteName: 
+    isGroup: 1
+    parentIndex: 32
+    spriteID: 1fe56adf3286b4835ba70484d3df84c2
+    layerID: 123
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 28c5560be761342b385e23b9743521b0
+    layerID: 122
+    mosaicPosition: {x: 1540, y: 3930}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 07eff7f83fe3246a3a1c82458e71d2d5
+    layerID: 121
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 1a6bcc3f4028a4d519805f61935509f3
+    layerID: 120
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 5645125ef9a9f464a8f792f77fbcbde7
+    layerID: 119
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 73e3f6e75cda14be5994caea9ac090e5
+    layerID: 118
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Cheese Particle 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 0a640ae3eb34f40d5b08a25dc34faf17
+    layerID: 117
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a7fc3098d27454c13bf2668793fb3d3f
+    layerID: 115
+    mosaicPosition: {x: 1540, y: 3533}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: f97c62de98b94486287fbba6d2ac31ba
+    layerID: 114
+    mosaicPosition: {x: 1540, y: 3730}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 1d4e74a5cfed74b8fa31c94d1b9d2824
+    layerID: 113
+    mosaicPosition: {x: 1540, y: 1548}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Forward
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: fad4450402e5b442889724257ff2d4b6
+    layerID: 147
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 292e476aa54b8465289886abae6c6288
+    layerID: 146
+    mosaicPosition: {x: 1540, y: 2819}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 0e87e9426144d4eb2bdfc72434655396
+    layerID: 145
+    mosaicPosition: {x: 1540, y: 1162}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: a3b9f22cdae51475380d91ea41f129a1
+    layerID: 144
+    mosaicPosition: {x: 4, y: 2875}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: e0f5beb939ef645e0986d2bb7b750e18
+    layerID: 143
+    mosaicPosition: {x: 650, y: 2872}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 7f5df27b64e764facb4eaa82bc3c6508
+    layerID: 142
+    mosaicPosition: {x: 1283, y: 2413}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Particles
+    spriteName: 
+    isGroup: 1
+    parentIndex: 48
+    spriteID: 4b7d7fe88c91b46c099a6e540105aae9
+    layerID: 141
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: b525c2900fc6e4902ba5ba695a4a5de1
+    layerID: 140
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: a95f2bf5ae0884be781383b55ec8b02f
+    layerID: 139
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 176642b169d5a43e39ddbdd2e375add8
+    layerID: 138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 54
+    spriteID: c0767476919f549ebabcf99ffed24f9a
+    layerID: 137
+    mosaicPosition: {x: 1672, y: 3620}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 83eb62806bd9d414fa2a0786455e2098
+    layerID: 136
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Cheese Particle 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 8359e2590ac654ea59b3d887dce73eac
+    layerID: 135
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: c9b30c902abd348f894c6de16a508568
+    layerID: 133
+    mosaicPosition: {x: 1804, y: 1548}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 14abb340405e4494183d026d8796f48c
+    layerID: 132
+    mosaicPosition: {x: 1835, y: 1865}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: 48
+    spriteID: d883f8c566ff6425b8017b66783b8562
+    layerID: 131
+    mosaicPosition: {x: 1283, y: 3216}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: Macheesmo_Jetpackl Texture
+  prefabAssetName: Macheesmo_Jetpackl Prefab
+  spriteLibAssetName: Macheesmo_Jetpackl Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
